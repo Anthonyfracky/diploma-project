@@ -1,0 +1,10 @@
+matplotlib
+seaborn
+pyarrow
+dask[complete]
+scikit-learn
+xgboost
+tqdm
+lightgbm
+numpy
+pandas
